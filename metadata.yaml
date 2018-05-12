@@ -1,0 +1,44 @@
+_repo: The-Placid-Pug-and-Other-Rhymes_45292
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: P. P.
+    alias: PP
+    gutenberg_agent_id: '43203'
+    url: http://www.gutenberg.org/2009/agents/43203
+covers:
+- cover_type: archival
+  image_path: 45292-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Douglas, Alfred Bruce
+    aliases:
+    - Douglas, Lord Alfred Bruce
+    - Belgian Hare
+    - Douglas, Bosie
+    - Douglas, Lord Alfred
+    birthdate: 1870
+    deathdate: 1945
+    gutenberg_agent_id: '43202'
+    url: http://www.gutenberg.org/2009/agents/43202
+    wikipedia: https://en.wikipedia.org/wiki/Lord_Alfred_Douglas
+description: ''
+gutenberg_issued: '2014-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry, English'
+- !lcc 'PR'
+- !lcsh 'Humorous poetry, English'
+tableOfContents: The placid pug -- Ballad for bishops -- Song for vintners -- Hymn
+  for humble people -- Versicles for vegetarians -- Hymn for howlers -- Dirge for
+  defeated candidates -- Poem for the proud -- Song for sidlers -- Fragment for philosophers.
+title: The Placid Pug, and Other Rhymes
+url: http://www.gutenberg.org/ebooks/45292
